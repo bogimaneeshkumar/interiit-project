@@ -1,7 +1,7 @@
 # InterIIT Tech Meet 12.0 - Jaguar Land Rover (JLR) Problem Statement
 
 ## Problem Statement Overview
-Jaguar Land Rover presented a challenge focusing on current industry trends in automotive and semiconductor technologies. The identified issues encompassed the global semiconductor shortage, complex systems, computational workloads, heat management challenges, scalability issues, energy efficiency concerns, and cost pressures on hardware in the automotive industry.
+Jaguar Land Rover (JLR) is exploring the adoption of chiplet technology in the automotive industry due to increasing complexity and technological advancements. The challenge is to analyze why chiplet technology should be embraced by JLR and to identify specific applications or components within vehicles where the use of chiplets will deliver the most value. Furthermore, the goal is to design detailed micro-architecture diagrams prioritizing optimal throughput for at least two major applications, emphasizing chiplet interconnectivity. Additionally, determining which aspects of the chiplet architecture JLR should design in-house for differentiation and which parts can be procured off-the-shelf to meet end-user applications while establishing a unique position in the market.
 
 ## Proposed Solution Highlights
 Our team's solution addressed these challenges through an in-depth analysis and proposed several key strategies:
